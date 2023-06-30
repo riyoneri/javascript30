@@ -5,3 +5,4 @@ This repository contains daily JavaScript projects from [JavaScript30](https://j
 ## Projects available:
 1. Drum Kit
 2. Clock
+3. CSS Variables
