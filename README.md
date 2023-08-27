@@ -8,3 +8,4 @@ This repository contains daily JavaScript projects from [JavaScript30](https://j
 3. CSS Variables
 4. Array Cardio Day 1
 5. Flex Pannel Gallery
+6. Type Ahead
